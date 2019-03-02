@@ -2,7 +2,7 @@ pipeline
 {
 agent 
 {
-label "Linux"
+label "PHP Slave1"
 }
 parameters
 {
